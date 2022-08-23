@@ -4,7 +4,7 @@
 
 import Foundation
 import MusicSymbol
-import AVFAudio
+import AVFoundation
 
 /// violin
 public class Violin: MusicalInstrument {
